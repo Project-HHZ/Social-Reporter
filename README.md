@@ -12,6 +12,10 @@ Das Ziel des Projekts ist die smarte Generierung von Content für Social-Media-P
 
 
 ## Dokumentation
+# Herangehensweise
+# Verwendete Komponenten
+# Aufbau der Infrastruktur
+# Use-Case
 
 
 ## Präsentation
