@@ -15,7 +15,7 @@ Das Ziel des Projekts ist die smarte Generierung von Content für Social-Media-P
 ### Herangehensweise
 ### Verwendete Komponenten
 ### Aufbau der Infrastruktur
-https://github.com/Social-Reporter-HHZ/Social-Reporter/blob/master/Aufbau_Hardware.jpg?raw=true
+[![](https://github.com/Social-Reporter-HHZ/Social-Reporter/blob/master/Aufbau_Hardware.jpg)]
 ### Use-Case
 
 
