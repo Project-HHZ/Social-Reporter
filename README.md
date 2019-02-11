@@ -12,3 +12,5 @@ Das Ziel des Projekts ist die smarte Generierung von Content für Social-Media-P
 * Tobias Kanaske
 * Philipp Sautter
 * Isabel Schorm
+
+## Wiki Doku Verlinkungen TODO
