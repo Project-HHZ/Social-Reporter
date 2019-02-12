@@ -25,6 +25,6 @@ Das Ziel des Projekts ist die smarte Generierung von Content für Social-Media-P
 #### [Prototyp-Implementierung](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/08.-Prototyp-Implementierung-PR)
 #### [Code-und-Repository](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/09.-Code-und-Repository)
 #### [Ausblick](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/10.-Ausblick-TK)
-#### [Pr%C3%A4sentation-und-Video](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/11.-Pr%C3%A4sentation-und-Video)
+#### [Präsentation-und-Video](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/11.-Pr%C3%A4sentation-und-Video)
 
 
