@@ -15,3 +15,8 @@ Das Ziel des Projekts ist die smarte Generierung von Content für Social-Media-P
 
 ## Wiki Doku Verlinkungen TODO
 ### [Home](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki#social-reporter)
+### [Aufgabenstellung Projektziel](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/01.5-Aufgabenstellung---Projektziel-TK)
+### []()
+### []()
+### []()
+### []()
