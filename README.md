@@ -14,3 +14,4 @@ Das Ziel des Projekts ist die smarte Generierung von Content für Social-Media-P
 * Isabel Schorm
 
 ## Wiki Doku Verlinkungen TODO
+### [Home](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki#social-reporter)
