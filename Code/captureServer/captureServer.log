@@ -1,0 +1,1641 @@
+DEBUG:root:##################2019-01-29 09:39:25.398535###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548751169.18] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751169.18] Recording already started: calendar.
+DEBUG:root:[1548751236.56] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751236.56] Recording already started: calendar.
+DEBUG:root:[1548751262.12] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548751262.12] No Saved image for: sensors.
+DEBUG:root:[1548751264.77] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548751264.77] No Saved image for: sensors.
+DEBUG:root:[1548751271.31] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548751271.31] No Saved image for: sensors.
+DEBUG:root:[1548751274.03] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548751274.03] No Saved image for: sensors.
+DEBUG:root:[1548751296.74] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751296.74] Recording already started: calendar.
+DEBUG:root:[1548751319.91] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548751319.91] No Saved image for: sensors.
+DEBUG:root:[1548751322.64] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548751322.64] No Saved image for: sensors.
+DEBUG:root:[1548751329.1] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548751329.1] No Saved image for: sensors.
+DEBUG:root:[1548751330.42] Received request from: faceDetection Task: Capture image
+DEBUG:root:##################2019-01-29 09:46:43.188705###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548751607.47] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751607.47] Recording already started: calendar.
+DEBUG:root:[1548751645.74] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 09:47:31.449414.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 09:47:31.548116.txt
+DEBUG:root:[1548751645.74] Saved image for: dashButton.
+DEBUG:root:[1548751674.51] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751674.51] Recording already started: calendar.
+DEBUG:root:[1548751734.76] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751734.76] Recording already started: calendar.
+DEBUG:root:##################2019-01-29 09:50:06.981305###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548751809.96] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751809.96] Recording already started: calendar.
+DEBUG:root:[1548751877.76] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751877.76] Recording already started: calendar.
+DEBUG:root:[1548751884.9] Received request from: dashButton Task: Capture image
+DEBUG:root:0:01:17.918776
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 09:51:30.602996.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 09:51:30.729324.txt
+DEBUG:root:[1548751884.9] Saved image for: dashButton.
+DEBUG:root:[1548751938.05] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751938.05] Recording already started: calendar.
+DEBUG:root:[1548751998.26] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548751998.26] Recording already started: calendar.
+DEBUG:root:[1548752058.47] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548752058.47] Recording already started: calendar.
+DEBUG:root:##################2019-01-29 09:54:43.464568###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548752086.54] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548752086.54] Recording already started: calendar.
+DEBUG:root:[1548752140.39] Received request from: dashButton Task: Capture image
+DEBUG:root:##################2019-01-29 10:04:26.614972###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548752669.66] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548752669.66] Recording already started: calendar.
+DEBUG:root:[1548752737.63] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548752737.63] Recording already started: calendar.
+DEBUG:root:[1548752738.77] Received request from: dashButton Task: Capture image
+DEBUG:root:##################2019-01-29 10:06:58.072985###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548752822.65] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548752822.65] Recording already started: calendar.
+DEBUG:root:[1548752868.6] Received request from: dashButton Task: Capture image
+DEBUG:root:50
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:07:54.359284.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:07:54.466755.txt
+DEBUG:root:[1548752868.6] Saved image for: dashButton.
+DEBUG:root:[1548752890.53] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548752890.53] Recording already started: calendar.
+DEBUG:root:[1548752950.77] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548752950.77] Recording already started: calendar.
+DEBUG:root:[1548752979.12] Received request from: sensors Task: Capture image
+DEBUG:root:161
+DEBUG:root:Motion detected...
+DEBUG:root:[1548752979.12] No Saved image for: sensors.
+DEBUG:root:[1548752980.11] Received request from: faceDetection Task: Capture image
+DEBUG:root:1
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:09:45.631925.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:09:45.708999.txt
+DEBUG:root:[1548752980.11] Saved image for: faceDetection.
+DEBUG:root:[1548752985.71] Received request from: sensors Task: Capture image
+DEBUG:root:6
+DEBUG:root:Motion detected...
+DEBUG:root:[1548752985.71] No Saved image for: sensors.
+DEBUG:root:[1548752987.62] Received request from: sensors Task: Capture image
+DEBUG:root:2
+DEBUG:root:Motion detected...
+DEBUG:root:[1548752987.62] No Saved image for: sensors.
+DEBUG:root:[1548752990.36] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548752990.36] No Saved image for: sensors.
+DEBUG:root:[1548752996.82] Received request from: faceDetection Task: Capture image
+DEBUG:root:6
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:10:02.351808.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:10:02.440186.txt
+DEBUG:root:[1548752996.82] Saved image for: faceDetection.
+DEBUG:root:[1548753002.44] Received request from: sensors Task: Capture image
+DEBUG:root:12
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753002.44] No Saved image for: sensors.
+DEBUG:root:[1548753002.45] Received request from: sensors Task: Capture image
+DEBUG:root:0
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753002.45] No Saved image for: sensors.
+DEBUG:root:[1548753005.46] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753005.46] No Saved image for: sensors.
+DEBUG:root:[1548753008.19] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753008.19] No Saved image for: sensors.
+DEBUG:root:[1548753011.0] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753011.0] Recording already started: calendar.
+DEBUG:root:[1548753021.64] Received request from: sensors Task: Capture image
+DEBUG:root:13
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753021.64] No Saved image for: sensors.
+DEBUG:root:[1548753024.38] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753024.38] No Saved image for: sensors.
+DEBUG:root:[1548753052.16] Received request from: sensors Task: Capture image
+DEBUG:root:28
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753052.16] No Saved image for: sensors.
+DEBUG:root:[1548753054.89] Received request from: sensors Task: Capture image
+DEBUG:root:2
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753054.89] No Saved image for: sensors.
+DEBUG:root:[1548753071.26] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753071.26] Recording already started: calendar.
+DEBUG:root:[1548753071.66] Received request from: sensors Task: Capture image
+DEBUG:root:17
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753071.66] No Saved image for: sensors.
+DEBUG:root:[1548753074.4] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753074.4] No Saved image for: sensors.
+DEBUG:root:[1548753126.84] Received request from: sensors Task: Capture image
+DEBUG:root:52
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753126.84] No Saved image for: sensors.
+DEBUG:root:[1548753129.57] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753129.57] No Saved image for: sensors.
+DEBUG:root:[1548753131.46] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753131.46] Recording already started: calendar.
+DEBUG:root:[1548753138.54] Received request from: sensors Task: Capture image
+DEBUG:root:9
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753138.54] No Saved image for: sensors.
+DEBUG:root:[1548753141.28] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753141.28] No Saved image for: sensors.
+DEBUG:root:[1548753148.76] Received request from: sensors Task: Capture image
+DEBUG:root:7
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753148.76] No Saved image for: sensors.
+DEBUG:root:[1548753151.49] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753151.49] No Saved image for: sensors.
+DEBUG:root:[1548753158.02] Received request from: sensors Task: Capture image
+DEBUG:root:7
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753158.02] No Saved image for: sensors.
+DEBUG:root:[1548753160.77] Received request from: sensors Task: Capture image
+DEBUG:root:2
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753160.77] No Saved image for: sensors.
+DEBUG:root:[1548753167.52] Received request from: sensors Task: Capture image
+DEBUG:root:7
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753167.52] No Saved image for: sensors.
+DEBUG:root:[1548753168.83] Received request from: faceDetection Task: Capture image
+DEBUG:root:1
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:12:54.358840.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:12:54.434984.txt
+DEBUG:root:[1548753168.83] Saved image for: faceDetection.
+DEBUG:root:[1548753174.44] Received request from: sensors Task: Capture image
+DEBUG:root:7
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753174.44] No Saved image for: sensors.
+DEBUG:root:[1548753177.33] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753177.33] No Saved image for: sensors.
+DEBUG:root:[1548753180.07] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753180.07] No Saved image for: sensors.
+DEBUG:root:[1548753191.69] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753191.69] Recording already started: calendar.
+DEBUG:root:[1548753192.32] Received request from: sensors Task: Capture image
+DEBUG:root:12
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753192.32] No Saved image for: sensors.
+DEBUG:root:[1548753195.05] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753195.05] No Saved image for: sensors.
+DEBUG:root:[1548753207.68] Received request from: sensors Task: Capture image
+DEBUG:root:12
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753207.68] No Saved image for: sensors.
+DEBUG:root:[1548753208.83] Received request from: faceDetection Task: Capture image
+DEBUG:root:1
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:13:34.358842.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:13:34.435455.txt
+DEBUG:root:[1548753208.83] Saved image for: faceDetection.
+DEBUG:root:[1548753214.44] Received request from: sensors Task: Capture image
+DEBUG:root:7
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753214.44] No Saved image for: sensors.
+DEBUG:root:[1548753217.09] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753217.09] No Saved image for: sensors.
+DEBUG:root:[1548753219.84] Received request from: sensors Task: Capture image
+DEBUG:root:2
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753219.84] No Saved image for: sensors.
+DEBUG:root:[1548753233.4] Received request from: sensors Task: Capture image
+DEBUG:root:14
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753233.4] No Saved image for: sensors.
+DEBUG:root:[1548753236.13] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753236.13] No Saved image for: sensors.
+DEBUG:root:[1548753249.15] Received request from: sensors Task: Capture image
+DEBUG:root:13
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753249.15] No Saved image for: sensors.
+DEBUG:root:[1548753251.89] Received request from: sensors Task: Capture image
+DEBUG:root:2
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753251.89] No Saved image for: sensors.
+DEBUG:root:[1548753251.99] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753251.99] Recording already started: calendar.
+DEBUG:root:[1548753258.82] Received request from: sensors Task: Capture image
+DEBUG:root:7
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753258.82] No Saved image for: sensors.
+DEBUG:root:[1548753261.55] Received request from: sensors Task: Capture image
+DEBUG:root:3
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753261.55] No Saved image for: sensors.
+DEBUG:root:##################2019-01-29 10:14:54.122822###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548753298.6] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753298.6] Recording already started: calendar.
+DEBUG:root:[1548753346.6] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753346.6] No Saved image for: sensors.
+DEBUG:root:[1548753349.33] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753349.33] No Saved image for: sensors.
+DEBUG:root:[1548753360.47] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753360.47] No Saved image for: sensors.
+DEBUG:root:[1548753363.2] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753363.2] No Saved image for: sensors.
+DEBUG:root:[1548753365.7] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753365.7] Recording already started: calendar.
+DEBUG:root:[1548753369.71] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753369.71] No Saved image for: sensors.
+DEBUG:root:[1548753372.45] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753372.45] No Saved image for: sensors.
+DEBUG:root:[1548753378.22] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753378.22] No Saved image for: sensors.
+DEBUG:root:[1548753380.95] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753380.95] No Saved image for: sensors.
+DEBUG:root:[1548753389.14] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753389.14] No Saved image for: sensors.
+DEBUG:root:[1548753391.88] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753391.88] No Saved image for: sensors.
+DEBUG:root:[1548753395.02] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:16:40.763353.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:16:40.859905.txt
+DEBUG:root:[1548753395.02] Saved image for: faceDetection.
+DEBUG:root:[1548753400.86] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753400.86] No Saved image for: sensors.
+DEBUG:root:[1548753402.31] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753402.31] No Saved image for: sensors.
+DEBUG:root:[1548753407.92] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753407.92] No Saved image for: sensors.
+DEBUG:root:[1548753410.66] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753410.66] No Saved image for: sensors.
+DEBUG:root:[1548753416.1] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:17:01.840534.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:17:01.937856.txt
+DEBUG:root:[1548753416.1] Saved image for: dashButton.
+DEBUG:root:[1548753421.94] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753421.94] No Saved image for: sensors.
+DEBUG:root:[1548753421.95] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753421.95] No Saved image for: sensors.
+DEBUG:root:[1548753425.17] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753425.17] No Saved image for: sensors.
+DEBUG:root:[1548753425.92] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753425.92] Recording already started: calendar.
+DEBUG:root:[1548753427.88] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753427.88] No Saved image for: sensors.
+DEBUG:root:[1548753428.75] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:17:14.298122.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:17:14.376765.txt
+DEBUG:root:[1548753428.75] Saved image for: faceDetection.
+DEBUG:root:[1548753436.39] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753436.39] No Saved image for: sensors.
+DEBUG:root:[1548753439.12] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753439.12] No Saved image for: sensors.
+DEBUG:root:[1548753445.72] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753445.72] No Saved image for: sensors.
+DEBUG:root:[1548753448.41] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753448.41] No Saved image for: sensors.
+DEBUG:root:[1548753451.48] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:17:36.958059.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:17:37.031316.txt
+DEBUG:root:[1548753451.48] Saved image for: dashButton.
+DEBUG:root:[1548753457.03] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753457.03] No Saved image for: sensors.
+DEBUG:root:[1548753457.67] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753457.67] No Saved image for: sensors.
+DEBUG:root:[1548753463.28] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753463.28] No Saved image for: sensors.
+DEBUG:root:[1548753466.02] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753466.02] No Saved image for: sensors.
+DEBUG:root:[1548753472.05] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:17:57.550639.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:17:57.623472.txt
+DEBUG:root:[1548753472.05] Saved image for: dashButton.
+DEBUG:root:[1548753477.63] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753477.63] No Saved image for: sensors.
+DEBUG:root:[1548753477.63] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753477.63] No Saved image for: sensors.
+DEBUG:root:[1548753482.5] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753482.5] No Saved image for: sensors.
+DEBUG:root:[1548753485.33] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753485.33] No Saved image for: sensors.
+DEBUG:root:[1548753486.17] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753486.17] Recording already started: calendar.
+DEBUG:root:[1548753490.86] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753490.86] No Saved image for: sensors.
+DEBUG:root:[1548753493.59] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753493.59] No Saved image for: sensors.
+DEBUG:root:[1548753499.34] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753499.34] No Saved image for: sensors.
+DEBUG:root:[1548753502.08] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753502.08] No Saved image for: sensors.
+DEBUG:root:[1548753508.25] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753508.25] No Saved image for: sensors.
+DEBUG:root:[1548753510.99] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753510.99] No Saved image for: sensors.
+DEBUG:root:[1548753517.74] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753517.74] No Saved image for: sensors.
+DEBUG:root:[1548753520.48] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753520.48] No Saved image for: sensors.
+DEBUG:root:[1548753546.41] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753546.41] Recording already started: calendar.
+DEBUG:root:[1548753562.92] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753562.92] No Saved image for: sensors.
+DEBUG:root:[1548753572.94] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753572.94] No Saved image for: sensors.
+DEBUG:root:[1548753582.96] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753582.96] No Saved image for: sensors.
+DEBUG:root:[1548753585.82] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:19:51.343190.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:19:51.419445.txt
+DEBUG:root:[1548753585.82] Saved image for: faceDetection.
+DEBUG:root:[1548753592.97] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753592.97] No Saved image for: sensors.
+DEBUG:root:[1548753602.99] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753602.99] No Saved image for: sensors.
+DEBUG:root:[1548753606.67] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753606.67] Recording already started: calendar.
+DEBUG:root:[1548753613.02] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753613.02] No Saved image for: sensors.
+DEBUG:root:[1548753620.52] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:20:26.010083.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:20:26.086910.txt
+DEBUG:root:[1548753620.52] Saved image for: dashButton.
+DEBUG:root:[1548753626.09] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548753626.09] No Saved image for: sensors.
+DEBUG:root:[1548753666.85] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753666.85] Recording already started: calendar.
+DEBUG:root:[1548753727.08] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753727.08] Recording already started: calendar.
+DEBUG:root:[1548753787.29] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753787.29] Recording already started: calendar.
+DEBUG:root:[1548753847.49] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753847.49] Recording already started: calendar.
+DEBUG:root:[1548753896.93] Received request from: faceDetection Task: Capture image
+DEBUG:root:##################2019-01-29 10:26:15.214271###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548753978.94] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548753978.94] Recording already started: calendar.
+DEBUG:root:[1548754046.71] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548754046.71] Recording already started: calendar.
+DEBUG:root:[1548754058.7] Received request from: faceDetection Task: Capture image
+DEBUG:root:##################2019-01-29 10:28:49.802395###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548754132.3] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548754132.3] Recording already started: calendar.
+DEBUG:root:[1548754199.69] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548754199.69] Recording already started: calendar.
+DEBUG:root:##################2019-01-29 10:31:04.562339###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548754268.06] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548754268.06] Recording already started: calendar.
+DEBUG:root:[1548754271.8] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754271.8] No Saved image for: sensors.
+DEBUG:root:[1548754281.8] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754281.8] No Saved image for: sensors.
+DEBUG:root:[1548754335.46] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548754335.46] Recording already started: calendar.
+DEBUG:root:[1548754351.78] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754351.78] No Saved image for: sensors.
+DEBUG:root:[1548754361.8] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754361.8] No Saved image for: sensors.
+DEBUG:root:[1548754370.22] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:32:55.977784.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:32:56.080075.txt
+DEBUG:root:[1548754370.22] Saved image for: faceDetection.
+DEBUG:root:[1548754376.08] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754376.08] No Saved image for: sensors.
+DEBUG:root:[1548754386.1] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754386.1] No Saved image for: sensors.
+DEBUG:root:[1548754395.7] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548754395.7] Recording already started: calendar.
+DEBUG:root:[1548754396.12] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754396.12] No Saved image for: sensors.
+DEBUG:root:##################2019-01-29 10:33:42.012285###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548754425.04] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548754425.04] Recording already started: calendar.
+DEBUG:root:[1548754427.56] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754427.56] No Saved image for: sensors.
+DEBUG:root:[1548754437.57] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754437.57] No Saved image for: sensors.
+DEBUG:root:[1548754454.73] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754454.73] No Saved image for: sensors.
+DEBUG:root:[1548754464.74] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754464.74] No Saved image for: sensors.
+DEBUG:root:[1548754474.75] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754474.75] No Saved image for: sensors.
+DEBUG:root:[1548754484.76] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754484.76] No Saved image for: sensors.
+DEBUG:root:[1548754492.79] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548754492.79] Recording already started: calendar.
+DEBUG:root:[1548754494.79] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754494.79] No Saved image for: sensors.
+DEBUG:root:[1548754497.76] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:35:03.471735.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:35:03.573772.txt
+DEBUG:root:[1548754497.76] Saved image for: faceDetection.
+DEBUG:root:[1548754504.8] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754504.8] No Saved image for: sensors.
+DEBUG:root:[1548754514.83] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754514.83] No Saved image for: sensors.
+DEBUG:root:[1548754524.83] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754524.83] No Saved image for: sensors.
+DEBUG:root:[1548754534.85] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754534.85] No Saved image for: sensors.
+DEBUG:root:[1548754544.87] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754544.87] No Saved image for: sensors.
+DEBUG:root:[1548754553.07] Received request from: calendar Current lecture: Test
+DEBUG:root:[1548754553.07] Recording already started: calendar.
+DEBUG:root:[1548754554.88] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754554.88] No Saved image for: sensors.
+DEBUG:root:[1548754564.92] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754564.92] No Saved image for: sensors.
+DEBUG:root:[1548754574.95] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754574.95] No Saved image for: sensors.
+DEBUG:root:[1548754584.96] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754584.96] No Saved image for: sensors.
+DEBUG:root:[1548754587.49] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:36:32.988181.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Test-2019-01-29 10:36:33.079267.txt
+DEBUG:root:[1548754587.49] Saved image for: dashButton.
+DEBUG:root:[1548754594.97] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754594.97] No Saved image for: sensors.
+DEBUG:root:[1548754599.1] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:36:44.625919.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Test-2019-01-29 10:36:44.701089.txt
+DEBUG:root:[1548754599.1] Saved image for: faceDetection.
+DEBUG:root:[1548754605.0] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754605.0] No Saved image for: sensors.
+DEBUG:root:[1548754613.31] Received request from: calendar Current lecture: Yufka
+DEBUG:root:[1548754613.31] Recording already started: calendar.
+DEBUG:root:[1548754615.01] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754615.01] No Saved image for: sensors.
+DEBUG:root:[1548754625.04] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754625.04] No Saved image for: sensors.
+DEBUG:root:[1548754635.05] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754635.05] No Saved image for: sensors.
+DEBUG:root:[1548754645.07] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754645.07] No Saved image for: sensors.
+DEBUG:root:[1548754655.08] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754655.08] No Saved image for: sensors.
+DEBUG:root:[1548754665.1] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754665.1] No Saved image for: sensors.
+DEBUG:root:[1548754673.62] Received request from: calendar Current lecture: Yufka
+DEBUG:root:[1548754673.62] Recording already started: calendar.
+DEBUG:root:[1548754678.63] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754678.63] No Saved image for: sensors.
+DEBUG:root:[1548754705.4] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Yufka-2019-01-29 10:38:30.918294.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Yufka-2019-01-29 10:38:30.996307.txt
+DEBUG:root:[1548754705.4] Saved image for: dashButton.
+DEBUG:root:[1548754734.04] Received request from: calendar Current lecture: Yufka
+DEBUG:root:[1548754734.04] Recording already started: calendar.
+DEBUG:root:[1548754752.57] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754752.57] No Saved image for: sensors.
+DEBUG:root:[1548754758.26] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Yufka-2019-01-29 10:39:23.828859.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Yufka-2019-01-29 10:39:23.911080.txt
+DEBUG:root:[1548754758.26] Saved image for: faceDetection.
+DEBUG:root:[1548754763.91] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754763.91] No Saved image for: sensors.
+DEBUG:root:[1548754773.93] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754773.93] No Saved image for: sensors.
+DEBUG:root:[1548754783.96] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754783.96] No Saved image for: sensors.
+DEBUG:root:[1548754794.26] Received request from: calendar Current lecture: Yufka
+DEBUG:root:[1548754794.26] Recording already started: calendar.
+DEBUG:root:[1548754854.43] Received request from: calendar.
+DEBUG:root:[1548754854.43] Recording stopped: calendar.
+DEBUG:root:[1548754854.43] Recording turned off: sensors.
+DEBUG:root:[1548754854.43] Recording turned off: sensors.
+DEBUG:root:[1548754854.43] Recording turned off: sensors.
+DEBUG:root:[1548754854.43] Recording turned off: sensors.
+DEBUG:root:[1548754914.64] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548754914.64] Recording started: calendar.
+DEBUG:root:[1548754940.49] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754940.49] No Saved image for: sensors.
+DEBUG:root:[1548754950.51] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754950.51] No Saved image for: sensors.
+DEBUG:root:[1548754960.52] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754960.52] No Saved image for: sensors.
+DEBUG:root:[1548754970.53] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754970.53] No Saved image for: sensors.
+DEBUG:root:[1548754974.83] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548754974.83] Recording already started: calendar.
+DEBUG:root:[1548754980.55] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754980.55] No Saved image for: sensors.
+DEBUG:root:[1548754990.57] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548754990.57] No Saved image for: sensors.
+DEBUG:root:[1548755000.59] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755000.59] No Saved image for: sensors.
+DEBUG:root:[1548755010.61] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755010.61] No Saved image for: sensors.
+DEBUG:root:[1548755020.62] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755020.62] No Saved image for: sensors.
+DEBUG:root:[1548755030.63] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755030.63] No Saved image for: sensors.
+DEBUG:root:[1548755035.1] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755035.1] Recording already started: calendar.
+DEBUG:root:[1548755040.65] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755040.65] No Saved image for: sensors.
+DEBUG:root:[1548755050.66] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755050.66] No Saved image for: sensors.
+DEBUG:root:[1548755060.68] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755060.68] No Saved image for: sensors.
+DEBUG:root:[1548755070.69] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755070.69] No Saved image for: sensors.
+DEBUG:root:[1548755080.71] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755080.71] No Saved image for: sensors.
+DEBUG:root:[1548755090.73] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755090.73] No Saved image for: sensors.
+DEBUG:root:[1548755095.32] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755095.32] Recording already started: calendar.
+DEBUG:root:[1548755100.75] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755100.75] No Saved image for: sensors.
+DEBUG:root:[1548755110.76] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755110.76] No Saved image for: sensors.
+DEBUG:root:[1548755120.77] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755120.77] No Saved image for: sensors.
+DEBUG:root:[1548755130.78] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755130.78] No Saved image for: sensors.
+DEBUG:root:[1548755139.71] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Preparation-2019-01-29 10:45:45.237210.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Preparation-2019-01-29 10:45:45.310450.txt
+DEBUG:root:[1548755139.71] Saved image for: faceDetection.
+DEBUG:root:[1548755145.31] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755145.31] No Saved image for: sensors.
+DEBUG:root:[1548755155.33] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755155.33] No Saved image for: sensors.
+DEBUG:root:[1548755155.58] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755155.58] Recording already started: calendar.
+DEBUG:root:[1548755164.79] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Preparation-2019-01-29 10:46:10.306827.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Preparation-2019-01-29 10:46:10.386570.txt
+DEBUG:root:[1548755164.79] Saved image for: faceDetection.
+DEBUG:root:[1548755170.39] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755170.39] No Saved image for: sensors.
+DEBUG:root:[1548755182.63] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755182.63] No Saved image for: sensors.
+DEBUG:root:[1548755192.65] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755192.65] No Saved image for: sensors.
+DEBUG:root:[1548755202.66] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755202.66] No Saved image for: sensors.
+DEBUG:root:[1548755212.69] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755212.69] No Saved image for: sensors.
+DEBUG:root:[1548755215.84] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755215.84] Recording already started: calendar.
+DEBUG:root:[1548755222.7] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755222.7] No Saved image for: sensors.
+DEBUG:root:[1548755232.73] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755232.73] No Saved image for: sensors.
+DEBUG:root:[1548755242.76] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755242.76] No Saved image for: sensors.
+DEBUG:root:[1548755252.78] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755252.78] No Saved image for: sensors.
+DEBUG:root:[1548755262.79] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755262.79] No Saved image for: sensors.
+DEBUG:root:[1548755272.8] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755272.8] No Saved image for: sensors.
+DEBUG:root:[1548755276.1] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755276.1] Recording already started: calendar.
+DEBUG:root:[1548755282.82] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755282.82] No Saved image for: sensors.
+DEBUG:root:[1548755292.84] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755292.84] No Saved image for: sensors.
+DEBUG:root:[1548755302.85] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755302.85] No Saved image for: sensors.
+DEBUG:root:[1548755312.88] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755312.88] No Saved image for: sensors.
+DEBUG:root:[1548755322.9] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755322.9] No Saved image for: sensors.
+DEBUG:root:[1548755332.91] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755332.91] No Saved image for: sensors.
+DEBUG:root:[1548755336.43] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755336.43] Recording already started: calendar.
+DEBUG:root:[1548755342.93] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755342.93] No Saved image for: sensors.
+DEBUG:root:[1548755352.95] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755352.95] No Saved image for: sensors.
+DEBUG:root:[1548755362.96] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755362.96] No Saved image for: sensors.
+DEBUG:root:[1548755379.69] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755379.69] No Saved image for: sensors.
+DEBUG:root:[1548755389.7] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755389.7] No Saved image for: sensors.
+DEBUG:root:[1548755396.66] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755396.66] Recording already started: calendar.
+DEBUG:root:[1548755399.72] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755399.72] No Saved image for: sensors.
+DEBUG:root:[1548755409.73] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755409.73] No Saved image for: sensors.
+DEBUG:root:[1548755419.74] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755419.74] No Saved image for: sensors.
+DEBUG:root:[1548755429.76] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755429.76] No Saved image for: sensors.
+DEBUG:root:[1548755439.77] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755439.77] No Saved image for: sensors.
+DEBUG:root:[1548755449.79] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755449.79] No Saved image for: sensors.
+DEBUG:root:[1548755456.88] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755456.88] Recording already started: calendar.
+DEBUG:root:[1548755459.81] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755459.81] No Saved image for: sensors.
+DEBUG:root:[1548755469.82] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755469.82] No Saved image for: sensors.
+DEBUG:root:[1548755479.84] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755479.84] No Saved image for: sensors.
+DEBUG:root:[1548755489.86] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755489.86] No Saved image for: sensors.
+DEBUG:root:[1548755506.51] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755506.51] No Saved image for: sensors.
+DEBUG:root:[1548755516.52] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755516.52] No Saved image for: sensors.
+DEBUG:root:[1548755517.12] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755517.12] Recording already started: calendar.
+DEBUG:root:[1548755526.53] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755526.53] No Saved image for: sensors.
+DEBUG:root:[1548755536.55] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755536.55] No Saved image for: sensors.
+DEBUG:root:[1548755546.57] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755546.57] No Saved image for: sensors.
+DEBUG:root:[1548755555.59] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Preparation-2019-01-29 10:52:41.102737.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Preparation-2019-01-29 10:52:41.200221.txt
+DEBUG:root:[1548755555.59] Saved image for: dashButton.
+DEBUG:root:[1548755561.2] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755561.2] No Saved image for: sensors.
+DEBUG:root:[1548755571.22] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755571.22] No Saved image for: sensors.
+DEBUG:root:[1548755577.41] Received request from: calendar Current lecture: Preparation
+DEBUG:root:[1548755577.41] Recording already started: calendar.
+DEBUG:root:[1548755581.24] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755581.24] No Saved image for: sensors.
+DEBUG:root:[1548755591.25] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755591.25] No Saved image for: sensors.
+DEBUG:root:[1548755601.27] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755601.27] No Saved image for: sensors.
+DEBUG:root:[1548755611.29] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755611.29] No Saved image for: sensors.
+DEBUG:root:[1548755621.3] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755621.3] No Saved image for: sensors.
+DEBUG:root:[1548755634.5] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755634.5] No Saved image for: sensors.
+DEBUG:root:[1548755637.68] Received request from: calendar.
+DEBUG:root:[1548755637.68] Recording stopped: calendar.
+DEBUG:root:[1548755637.68] Recording turned off: sensors.
+DEBUG:root:[1548755637.68] Recording turned off: sensors.
+DEBUG:root:[1548755637.68] Recording turned off: sensors.
+DEBUG:root:[1548755637.68] Recording turned off: sensors.
+DEBUG:root:[1548755637.68] Recording turned off: sensors.
+DEBUG:root:[1548755637.68] Recording turned off: sensors.
+DEBUG:root:[1548755697.93] Received request from: calendar.
+DEBUG:root:[1548755697.93] Recording already stopped: calendar.
+DEBUG:root:[1548755697.93] Recording turned off: sensors.
+DEBUG:root:[1548755697.93] Recording turned off: sensors.
+DEBUG:root:[1548755697.93] Recording turned off: sensors.
+DEBUG:root:[1548755697.93] Recording turned off: sensors.
+DEBUG:root:[1548755697.93] Recording turned off: sensors.
+DEBUG:root:[1548755697.93] Recording turned off: sensors.
+DEBUG:root:[1548755758.2] Received request from: calendar.
+DEBUG:root:[1548755758.2] Recording already stopped: calendar.
+DEBUG:root:[1548755758.2] Recording turned off: sensors.
+DEBUG:root:[1548755758.2] Recording turned off: sensors.
+DEBUG:root:[1548755758.2] Recording turned off: sensors.
+DEBUG:root:[1548755818.42] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548755818.42] Recording started: calendar.
+DEBUG:root:[1548755827.4] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755827.4] No Saved image for: sensors.
+DEBUG:root:[1548755835.85] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 10:57:21.356497.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 10:57:21.451038.txt
+DEBUG:root:[1548755835.85] Saved image for: dashButton.
+DEBUG:root:[1548755841.45] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755841.45] No Saved image for: sensors.
+DEBUG:root:[1548755851.5] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755851.5] No Saved image for: sensors.
+DEBUG:root:[1548755861.53] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755861.53] No Saved image for: sensors.
+DEBUG:root:[1548755871.54] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755871.54] No Saved image for: sensors.
+DEBUG:root:[1548755878.64] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548755878.64] Recording already started: calendar.
+DEBUG:root:[1548755881.56] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755881.56] No Saved image for: sensors.
+DEBUG:root:[1548755891.58] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755891.58] No Saved image for: sensors.
+DEBUG:root:[1548755901.6] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755901.6] No Saved image for: sensors.
+DEBUG:root:[1548755911.62] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755911.62] No Saved image for: sensors.
+DEBUG:root:[1548755921.66] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755921.66] No Saved image for: sensors.
+DEBUG:root:[1548755931.67] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755931.67] No Saved image for: sensors.
+DEBUG:root:[1548755938.88] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548755938.88] Recording already started: calendar.
+DEBUG:root:[1548755946.53] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755946.53] No Saved image for: sensors.
+DEBUG:root:[1548755956.54] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755956.54] No Saved image for: sensors.
+DEBUG:root:[1548755966.55] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755966.55] No Saved image for: sensors.
+DEBUG:root:[1548755976.56] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755976.56] No Saved image for: sensors.
+DEBUG:root:[1548755986.57] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755986.57] No Saved image for: sensors.
+DEBUG:root:[1548755996.59] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548755996.59] No Saved image for: sensors.
+DEBUG:root:[1548755999.09] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548755999.09] Recording already started: calendar.
+DEBUG:root:[1548756006.6] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756006.6] No Saved image for: sensors.
+DEBUG:root:[1548756016.63] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756016.63] No Saved image for: sensors.
+DEBUG:root:[1548756026.64] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756026.64] No Saved image for: sensors.
+DEBUG:root:[1548756036.65] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756036.65] No Saved image for: sensors.
+DEBUG:root:[1548756040.61] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 11:00:46.124510.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 11:00:46.212082.txt
+DEBUG:root:[1548756040.61] Saved image for: dashButton.
+DEBUG:root:[1548756046.67] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756046.67] No Saved image for: sensors.
+DEBUG:root:[1548756056.69] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756056.69] No Saved image for: sensors.
+DEBUG:root:[1548756059.36] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756059.36] Recording already started: calendar.
+DEBUG:root:[1548756069.67] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756069.67] No Saved image for: sensors.
+DEBUG:root:[1548756079.69] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756079.69] No Saved image for: sensors.
+DEBUG:root:[1548756089.71] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756089.71] No Saved image for: sensors.
+DEBUG:root:[1548756099.72] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756099.72] No Saved image for: sensors.
+DEBUG:root:[1548756109.74] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756109.74] No Saved image for: sensors.
+DEBUG:root:[1548756119.56] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756119.56] Recording already started: calendar.
+DEBUG:root:[1548756119.76] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756119.76] No Saved image for: sensors.
+DEBUG:root:[1548756129.78] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756129.78] No Saved image for: sensors.
+DEBUG:root:[1548756139.8] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756139.8] No Saved image for: sensors.
+DEBUG:root:[1548756149.81] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756149.81] No Saved image for: sensors.
+DEBUG:root:[1548756159.83] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756159.83] No Saved image for: sensors.
+DEBUG:root:[1548756169.84] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756169.84] No Saved image for: sensors.
+DEBUG:root:[1548756179.82] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756179.82] Recording already started: calendar.
+DEBUG:root:[1548756179.87] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756179.87] No Saved image for: sensors.
+DEBUG:root:[1548756196.95] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756196.95] No Saved image for: sensors.
+DEBUG:root:[1548756206.97] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756206.97] No Saved image for: sensors.
+DEBUG:root:[1548756216.98] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756216.98] No Saved image for: sensors.
+DEBUG:root:[1548756227.0] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756227.0] No Saved image for: sensors.
+DEBUG:root:[1548756237.02] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756237.02] No Saved image for: sensors.
+DEBUG:root:[1548756240.12] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756240.12] Recording already started: calendar.
+DEBUG:root:[1548756247.06] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756247.06] No Saved image for: sensors.
+DEBUG:root:[1548756257.13] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756257.13] No Saved image for: sensors.
+DEBUG:root:[1548756267.15] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756267.15] No Saved image for: sensors.
+DEBUG:root:[1548756277.16] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756277.16] No Saved image for: sensors.
+DEBUG:root:[1548756287.19] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756287.19] No Saved image for: sensors.
+DEBUG:root:[1548756297.21] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756297.21] No Saved image for: sensors.
+DEBUG:root:[1548756300.38] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756300.38] Recording already started: calendar.
+DEBUG:root:[1548756307.23] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756307.23] No Saved image for: sensors.
+DEBUG:root:[1548756318.95] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756318.95] No Saved image for: sensors.
+DEBUG:root:[1548756328.97] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756328.97] No Saved image for: sensors.
+DEBUG:root:[1548756338.99] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756338.99] No Saved image for: sensors.
+DEBUG:root:[1548756349.0] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756349.0] No Saved image for: sensors.
+DEBUG:root:[1548756359.01] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756359.01] No Saved image for: sensors.
+DEBUG:root:[1548756360.62] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756360.62] Recording already started: calendar.
+DEBUG:root:[1548756369.03] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756369.03] No Saved image for: sensors.
+DEBUG:root:[1548756379.04] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756379.04] No Saved image for: sensors.
+DEBUG:root:[1548756389.08] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756389.08] No Saved image for: sensors.
+DEBUG:root:[1548756399.1] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756399.1] No Saved image for: sensors.
+DEBUG:root:[1548756409.11] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756409.11] No Saved image for: sensors.
+DEBUG:root:##################2019-01-29 11:07:20.831072###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548756444.54] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756444.54] Recording already started: calendar.
+DEBUG:root:[1548756477.91] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 11:08:03.620399.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 11:08:03.731316.txt
+DEBUG:root:[1548756477.91] Saved image for: dashButton.
+DEBUG:root:[1548756489.03] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756489.03] No Saved image for: sensors.
+DEBUG:root:[1548756499.05] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756499.05] No Saved image for: sensors.
+DEBUG:root:[1548756509.07] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756509.07] No Saved image for: sensors.
+DEBUG:root:[1548756512.35] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756512.35] Recording already started: calendar.
+DEBUG:root:[1548756519.09] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756519.09] No Saved image for: sensors.
+DEBUG:root:[1548756529.13] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756529.13] No Saved image for: sensors.
+DEBUG:root:[1548756539.15] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756539.15] No Saved image for: sensors.
+DEBUG:root:[1548756549.17] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756549.17] No Saved image for: sensors.
+DEBUG:root:[1548756559.19] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756559.19] No Saved image for: sensors.
+DEBUG:root:[1548756569.21] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756569.21] No Saved image for: sensors.
+DEBUG:root:[1548756572.57] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756572.57] Recording already started: calendar.
+DEBUG:root:[1548756579.22] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756579.22] No Saved image for: sensors.
+DEBUG:root:##################2019-01-29 11:10:02.648636###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548756606.31] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756606.31] Recording already started: calendar.
+DEBUG:root:[1548756623.06] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756623.06] No Saved image for: sensors.
+DEBUG:root:[1548756640.58] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756640.58] No Saved image for: sensors.
+DEBUG:root:[1548756650.6] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756650.6] No Saved image for: sensors.
+DEBUG:root:[1548756660.62] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756660.62] No Saved image for: sensors.
+DEBUG:root:[1548756670.65] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756670.65] No Saved image for: sensors.
+DEBUG:root:[1548756674.01] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756674.01] Recording already started: calendar.
+DEBUG:root:[1548756680.67] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756680.67] No Saved image for: sensors.
+DEBUG:root:[1548756690.7] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756690.7] No Saved image for: sensors.
+DEBUG:root:[1548756695.16] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 11:11:40.892447.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 11:11:41.008949.txt
+DEBUG:root:[1548756695.16] Saved image for: dashButton.
+DEBUG:root:[1548756701.02] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756701.02] No Saved image for: sensors.
+DEBUG:root:[1548756711.04] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756711.04] No Saved image for: sensors.
+DEBUG:root:[1548756721.05] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756721.05] No Saved image for: sensors.
+DEBUG:root:[1548756731.07] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756731.07] No Saved image for: sensors.
+DEBUG:root:[1548756734.23] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756734.23] Recording already started: calendar.
+DEBUG:root:[1548756741.12] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756741.12] No Saved image for: sensors.
+DEBUG:root:[1548756751.13] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756751.13] No Saved image for: sensors.
+DEBUG:root:[1548756761.14] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756761.14] No Saved image for: sensors.
+DEBUG:root:[1548756771.15] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756771.15] No Saved image for: sensors.
+DEBUG:root:[1548756781.17] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756781.17] No Saved image for: sensors.
+DEBUG:root:[1548756791.18] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756791.18] No Saved image for: sensors.
+DEBUG:root:[1548756794.4] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756794.4] Recording already started: calendar.
+DEBUG:root:[1548756808.46] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756808.46] No Saved image for: sensors.
+DEBUG:root:[1548756818.49] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756818.49] No Saved image for: sensors.
+DEBUG:root:[1548756828.52] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756828.52] No Saved image for: sensors.
+DEBUG:root:[1548756838.55] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756838.55] No Saved image for: sensors.
+DEBUG:root:[1548756848.56] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756848.56] No Saved image for: sensors.
+DEBUG:root:[1548756854.57] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756854.57] Recording already started: calendar.
+DEBUG:root:[1548756858.59] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756858.59] No Saved image for: sensors.
+DEBUG:root:[1548756868.63] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756868.63] No Saved image for: sensors.
+DEBUG:root:##################2019-01-29 11:14:52.952926###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548756894.59] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756894.59] Recording already started: calendar.
+DEBUG:root:[1548756903.47] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756903.47] No Saved image for: sensors.
+DEBUG:root:[1548756913.48] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756913.48] No Saved image for: sensors.
+DEBUG:root:[1548756930.44] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756930.44] No Saved image for: sensors.
+DEBUG:root:[1548756940.45] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756940.45] No Saved image for: sensors.
+DEBUG:root:[1548756950.47] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756950.47] No Saved image for: sensors.
+DEBUG:root:[1548756960.48] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756960.48] No Saved image for: sensors.
+DEBUG:root:[1548756961.76] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548756961.76] Recording already started: calendar.
+DEBUG:root:[1548756970.49] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756970.49] No Saved image for: sensors.
+DEBUG:root:[1548756980.5] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756980.5] No Saved image for: sensors.
+DEBUG:root:[1548756990.04] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:16:35.781522.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:16:35.877602.txt
+DEBUG:root:[1548756990.04] Saved image for: faceDetection.
+DEBUG:root:[1548756995.88] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548756995.88] No Saved image for: sensors.
+DEBUG:root:[1548757005.9] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757005.9] No Saved image for: sensors.
+DEBUG:root:[1548757015.92] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757015.92] No Saved image for: sensors.
+DEBUG:root:[1548757021.94] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757021.94] Recording already started: calendar.
+DEBUG:root:[1548757025.94] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757025.94] No Saved image for: sensors.
+DEBUG:root:##################2019-01-29 11:17:34.587329###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548757057.01] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757057.01] Recording already started: calendar.
+DEBUG:root:[1548757058.12] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757058.12] No Saved image for: sensors.
+DEBUG:root:[1548757068.14] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757068.14] No Saved image for: sensors.
+DEBUG:root:[1548757085.75] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757085.75] No Saved image for: sensors.
+DEBUG:root:[1548757124.83] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757124.83] Recording already started: calendar.
+DEBUG:root:[1548757125.67] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757125.67] No Saved image for: sensors.
+DEBUG:root:[1548757130.96] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:18:56.700416.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:18:56.799329.txt
+DEBUG:root:[1548757130.96] Saved image for: faceDetection.
+DEBUG:root:[1548757136.8] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757136.8] No Saved image for: sensors.
+DEBUG:root:[1548757146.82] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757146.82] No Saved image for: sensors.
+DEBUG:root:[1548757156.84] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757156.84] No Saved image for: sensors.
+DEBUG:root:[1548757167.54] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757167.54] No Saved image for: sensors.
+DEBUG:root:[1548757177.56] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757177.56] No Saved image for: sensors.
+DEBUG:root:##################2019-01-29 11:20:07.748560###################
+DEBUG:root:Server listening on Port:45157.
+DEBUG:root:[1548757210.8] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757210.8] Recording already started: calendar.
+DEBUG:root:[1548757250.55] Received request from: dashButton Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 11:20:56.353850.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/dashButton/Präsi-2019-01-29 11:20:56.450966.txt
+DEBUG:root:[1548757250.55] Saved image for: dashButton.
+DEBUG:root:[1548757268.12] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757268.12] No Saved image for: sensors.
+DEBUG:root:[1548757278.14] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757278.14] No Saved image for: sensors.
+DEBUG:root:[1548757278.6] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757278.6] Recording already started: calendar.
+DEBUG:root:[1548757288.16] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757288.16] No Saved image for: sensors.
+DEBUG:root:[1548757298.18] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757298.18] No Saved image for: sensors.
+DEBUG:root:[1548757308.2] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757308.2] No Saved image for: sensors.
+DEBUG:root:[1548757318.21] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757318.21] No Saved image for: sensors.
+DEBUG:root:[1548757328.23] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757328.23] No Saved image for: sensors.
+DEBUG:root:[1548757338.23] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757338.23] No Saved image for: sensors.
+DEBUG:root:[1548757338.88] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757338.88] Recording already started: calendar.
+DEBUG:root:[1548757348.25] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757348.25] No Saved image for: sensors.
+DEBUG:root:[1548757358.26] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757358.26] No Saved image for: sensors.
+DEBUG:root:[1548757366.98] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:22:52.523618.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:22:52.604395.txt
+DEBUG:root:[1548757366.98] Saved image for: faceDetection.
+DEBUG:root:[1548757372.61] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757372.61] No Saved image for: sensors.
+DEBUG:root:[1548757382.63] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757382.63] No Saved image for: sensors.
+DEBUG:root:[1548757392.64] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757392.64] No Saved image for: sensors.
+DEBUG:root:[1548757399.14] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757399.14] Recording already started: calendar.
+DEBUG:root:[1548757402.65] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757402.65] No Saved image for: sensors.
+DEBUG:root:[1548757412.67] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757412.67] No Saved image for: sensors.
+DEBUG:root:[1548757413.71] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:23:39.231630.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:23:39.304331.txt
+DEBUG:root:[1548757413.71] Saved image for: faceDetection.
+DEBUG:root:[1548757422.68] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757422.68] No Saved image for: sensors.
+DEBUG:root:[1548757432.7] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757432.7] No Saved image for: sensors.
+DEBUG:root:[1548757442.71] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757442.71] No Saved image for: sensors.
+DEBUG:root:[1548757452.73] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757452.73] No Saved image for: sensors.
+DEBUG:root:[1548757459.45] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757459.45] Recording already started: calendar.
+DEBUG:root:[1548757462.76] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757462.76] No Saved image for: sensors.
+DEBUG:root:[1548757488.53] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757488.53] No Saved image for: sensors.
+DEBUG:root:[1548757498.54] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757498.54] No Saved image for: sensors.
+DEBUG:root:[1548757510.18] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757510.18] No Saved image for: sensors.
+DEBUG:root:[1548757519.71] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757519.71] Recording already started: calendar.
+DEBUG:root:[1548757520.2] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757520.2] No Saved image for: sensors.
+DEBUG:root:[1548757530.21] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757530.21] No Saved image for: sensors.
+DEBUG:root:[1548757540.23] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757540.23] No Saved image for: sensors.
+DEBUG:root:[1548757557.94] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757557.94] No Saved image for: sensors.
+DEBUG:root:[1548757559.48] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:26:05.038984.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:26:05.107557.txt
+DEBUG:root:[1548757559.48] Saved image for: faceDetection.
+DEBUG:root:[1548757567.95] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757567.95] No Saved image for: sensors.
+DEBUG:root:[1548757577.96] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757577.96] No Saved image for: sensors.
+DEBUG:root:[1548757580.05] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757580.05] Recording already started: calendar.
+DEBUG:root:[1548757587.97] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757587.97] No Saved image for: sensors.
+DEBUG:root:[1548757597.99] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757597.99] No Saved image for: sensors.
+DEBUG:root:[1548757608.07] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757608.07] No Saved image for: sensors.
+DEBUG:root:[1548757618.1] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757618.1] No Saved image for: sensors.
+DEBUG:root:[1548757619.92] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:27:05.438179.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:27:05.507130.txt
+DEBUG:root:[1548757619.92] Saved image for: faceDetection.
+DEBUG:root:[1548757628.12] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757628.12] No Saved image for: sensors.
+DEBUG:root:[1548757638.14] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757638.14] No Saved image for: sensors.
+DEBUG:root:[1548757640.31] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757640.31] Recording already started: calendar.
+DEBUG:root:[1548757640.63] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:27:26.159776.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:27:26.237577.txt
+DEBUG:root:[1548757640.63] Saved image for: faceDetection.
+DEBUG:root:[1548757648.15] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757648.15] No Saved image for: sensors.
+DEBUG:root:[1548757658.18] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757658.18] No Saved image for: sensors.
+DEBUG:root:[1548757659.92] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:27:45.458726.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:27:45.538370.txt
+DEBUG:root:[1548757659.92] Saved image for: faceDetection.
+DEBUG:root:[1548757678.17] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757678.17] No Saved image for: sensors.
+DEBUG:root:[1548757688.18] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757688.18] No Saved image for: sensors.
+DEBUG:root:[1548757698.2] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757698.2] No Saved image for: sensors.
+DEBUG:root:[1548757700.56] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757700.56] Recording already started: calendar.
+DEBUG:root:[1548757708.21] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757708.21] No Saved image for: sensors.
+DEBUG:root:[1548757718.23] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757718.23] No Saved image for: sensors.
+DEBUG:root:[1548757728.24] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757728.24] No Saved image for: sensors.
+DEBUG:root:[1548757738.25] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757738.25] No Saved image for: sensors.
+DEBUG:root:[1548757748.26] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757748.26] No Saved image for: sensors.
+DEBUG:root:[1548757760.82] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757760.82] Recording already started: calendar.
+DEBUG:root:[1548757821.07] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757821.07] Recording already started: calendar.
+DEBUG:root:[1548757829.68] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757829.68] No Saved image for: sensors.
+DEBUG:root:[1548757881.32] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757881.32] Recording already started: calendar.
+DEBUG:root:[1548757921.85] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757921.85] No Saved image for: sensors.
+DEBUG:root:[1548757931.86] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548757931.86] No Saved image for: sensors.
+DEBUG:root:[1548757941.63] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548757941.63] Recording already started: calendar.
+DEBUG:root:[1548758001.96] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758001.96] Recording already started: calendar.
+DEBUG:root:[1548758045.73] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758045.73] No Saved image for: sensors.
+DEBUG:root:[1548758062.24] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758062.24] Recording already started: calendar.
+DEBUG:root:[1548758122.46] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758122.46] Recording already started: calendar.
+DEBUG:root:[1548758128.49] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758128.49] No Saved image for: sensors.
+DEBUG:root:[1548758137.22] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:35:42.726642.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:35:42.807359.txt
+DEBUG:root:[1548758137.22] Saved image for: faceDetection.
+DEBUG:root:[1548758142.82] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758142.82] No Saved image for: sensors.
+DEBUG:root:[1548758152.84] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758152.84] No Saved image for: sensors.
+DEBUG:root:[1548758162.86] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758162.86] No Saved image for: sensors.
+DEBUG:root:[1548758172.89] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758172.89] No Saved image for: sensors.
+DEBUG:root:[1548758182.84] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758182.84] Recording already started: calendar.
+DEBUG:root:[1548758182.91] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758182.91] No Saved image for: sensors.
+DEBUG:root:[1548758192.93] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758192.93] No Saved image for: sensors.
+DEBUG:root:[1548758202.94] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758202.94] No Saved image for: sensors.
+DEBUG:root:[1548758212.95] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758212.95] No Saved image for: sensors.
+DEBUG:root:[1548758222.96] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758222.96] No Saved image for: sensors.
+DEBUG:root:[1548758243.08] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758243.08] Recording already started: calendar.
+DEBUG:root:[1548758303.32] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758303.32] Recording already started: calendar.
+DEBUG:root:[1548758312.28] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758312.28] No Saved image for: sensors.
+DEBUG:root:[1548758363.59] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758363.59] Recording already started: calendar.
+DEBUG:root:[1548758370.29] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758370.29] No Saved image for: sensors.
+DEBUG:root:[1548758380.3] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758380.3] No Saved image for: sensors.
+DEBUG:root:[1548758423.85] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758423.85] Recording already started: calendar.
+DEBUG:root:[1548758484.09] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758484.09] Recording already started: calendar.
+DEBUG:root:[1548758494.34] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758494.34] No Saved image for: sensors.
+DEBUG:root:[1548758544.46] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758544.46] Recording already started: calendar.
+DEBUG:root:[1548758573.9] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758573.9] No Saved image for: sensors.
+DEBUG:root:[1548758583.92] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758583.92] No Saved image for: sensors.
+DEBUG:root:[1548758593.93] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758593.93] No Saved image for: sensors.
+DEBUG:root:[1548758603.94] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758603.94] No Saved image for: sensors.
+DEBUG:root:[1548758604.71] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758604.71] Recording already started: calendar.
+DEBUG:root:[1548758613.96] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758613.96] No Saved image for: sensors.
+DEBUG:root:[1548758623.99] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758623.99] No Saved image for: sensors.
+DEBUG:root:[1548758644.55] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758644.55] No Saved image for: sensors.
+DEBUG:root:[1548758654.57] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758654.57] No Saved image for: sensors.
+DEBUG:root:[1548758664.93] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758664.93] Recording already started: calendar.
+DEBUG:root:[1548758713.72] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758713.72] No Saved image for: sensors.
+DEBUG:root:[1548758720.14] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:45:25.624407.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:45:25.703202.txt
+DEBUG:root:[1548758720.14] Saved image for: faceDetection.
+DEBUG:root:[1548758725.7] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758725.7] Recording already started: calendar.
+DEBUG:root:[1548758725.71] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758725.71] No Saved image for: sensors.
+DEBUG:root:[1548758735.74] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758735.74] No Saved image for: sensors.
+DEBUG:root:[1548758740.05] Received request from: faceDetection Task: Capture image
+DEBUG:root:Bild gespeichert unter: /home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:45:45.588105.png
+DEBUG:root:/home/pi/IoT/captureServer/pics/faceDetection/Präsi-2019-01-29 11:45:45.664174.txt
+DEBUG:root:[1548758740.05] Saved image for: faceDetection.
+DEBUG:root:[1548758745.75] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758745.75] No Saved image for: sensors.
+DEBUG:root:[1548758755.77] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758755.77] No Saved image for: sensors.
+DEBUG:root:[1548758765.78] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758765.78] No Saved image for: sensors.
+DEBUG:root:[1548758775.8] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758775.8] No Saved image for: sensors.
+DEBUG:root:[1548758785.81] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758785.81] No Saved image for: sensors.
+DEBUG:root:[1548758785.95] Received request from: calendar Current lecture: Präsi
+DEBUG:root:[1548758785.95] Recording already started: calendar.
+DEBUG:root:[1548758795.83] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758795.83] No Saved image for: sensors.
+DEBUG:root:[1548758805.85] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758805.85] No Saved image for: sensors.
+DEBUG:root:[1548758815.86] Received request from: sensors Task: Capture image
+DEBUG:root:Motion detected...
+DEBUG:root:[1548758815.86] No Saved image for: sensors.

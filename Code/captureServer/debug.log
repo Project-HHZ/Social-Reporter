@@ -1,0 +1,215 @@
+Error setting controls: Invalid argument
+VIDIOC_S_EXT_CTRLS: failed: Invalid argument
+Server listening on Port:45157.
+[1548757210.8] Received request from: calendar Current lecture: Präsi.
+[1548757210.8] Recording already started: calendar.
+[1548757250.55] Received request from: dashButton Task: Capture image
+[1548757250.55] Saved image for: dashButton.
+[1548757268.12] Received request from: sensors Task: Capture image
+[1548757268.12] No Saved image for: sensors.
+[1548757278.14] Received request from: sensors Task: Capture image
+[1548757278.14] No Saved image for: sensors.
+[1548757278.6] Received request from: calendar Current lecture: Präsi.
+[1548757278.6] Recording already started: calendar.
+[1548757288.16] Received request from: sensors Task: Capture image
+[1548757288.16] No Saved image for: sensors.
+[1548757298.18] Received request from: sensors Task: Capture image
+[1548757298.18] No Saved image for: sensors.
+[1548757308.2] Received request from: sensors Task: Capture image
+[1548757308.2] No Saved image for: sensors.
+[1548757318.21] Received request from: sensors Task: Capture image
+[1548757318.21] No Saved image for: sensors.
+[1548757328.23] Received request from: sensors Task: Capture image
+[1548757328.23] No Saved image for: sensors.
+[1548757338.23] Received request from: sensors Task: Capture image
+[1548757338.23] No Saved image for: sensors.
+[1548757338.88] Received request from: calendar Current lecture: Präsi.
+[1548757338.88] Recording already started: calendar.
+[1548757348.25] Received request from: sensors Task: Capture image
+[1548757348.25] No Saved image for: sensors.
+[1548757358.26] Received request from: sensors Task: Capture image
+[1548757358.26] No Saved image for: sensors.
+[1548757366.98] Received request from: faceDetection Task: Capture image
+[1548757366.98] Saved image for: faceDetection.
+[1548757372.61] Received request from: sensors Task: Capture image
+[1548757372.61] No Saved image for: sensors.
+[1548757382.63] Received request from: sensors Task: Capture image
+[1548757382.63] No Saved image for: sensors.
+[1548757392.64] Received request from: sensors Task: Capture image
+[1548757392.64] No Saved image for: sensors.
+[1548757399.14] Received request from: calendar Current lecture: Präsi.
+[1548757399.14] Recording already started: calendar.
+[1548757402.65] Received request from: sensors Task: Capture image
+[1548757402.65] No Saved image for: sensors.
+[1548757412.67] Received request from: sensors Task: Capture image
+[1548757412.67] No Saved image for: sensors.
+[1548757413.71] Received request from: faceDetection Task: Capture image
+[1548757413.71] Saved image for: faceDetection.
+[1548757422.68] Received request from: sensors Task: Capture image
+[1548757422.68] No Saved image for: sensors.
+[1548757432.7] Received request from: sensors Task: Capture image
+[1548757432.7] No Saved image for: sensors.
+[1548757442.71] Received request from: sensors Task: Capture image
+[1548757442.71] No Saved image for: sensors.
+[1548757452.73] Received request from: sensors Task: Capture image
+[1548757452.73] No Saved image for: sensors.
+[1548757459.45] Received request from: calendar Current lecture: Präsi.
+[1548757459.45] Recording already started: calendar.
+[1548757462.76] Received request from: sensors Task: Capture image
+[1548757462.76] No Saved image for: sensors.
+[1548757488.53] Received request from: sensors Task: Capture image
+[1548757488.53] No Saved image for: sensors.
+[1548757498.54] Received request from: sensors Task: Capture image
+[1548757498.54] No Saved image for: sensors.
+[1548757510.18] Received request from: sensors Task: Capture image
+[1548757510.18] No Saved image for: sensors.
+[1548757519.71] Received request from: calendar Current lecture: Präsi.
+[1548757519.71] Recording already started: calendar.
+[1548757520.2] Received request from: sensors Task: Capture image
+[1548757520.2] No Saved image for: sensors.
+[1548757530.21] Received request from: sensors Task: Capture image
+[1548757530.21] No Saved image for: sensors.
+[1548757540.23] Received request from: sensors Task: Capture image
+[1548757540.23] No Saved image for: sensors.
+[1548757557.94] Received request from: sensors Task: Capture image
+[1548757557.94] No Saved image for: sensors.
+[1548757559.48] Received request from: faceDetection Task: Capture image
+[1548757559.48] Saved image for: faceDetection.
+[1548757567.95] Received request from: sensors Task: Capture image
+[1548757567.95] No Saved image for: sensors.
+[1548757577.96] Received request from: sensors Task: Capture image
+[1548757577.96] No Saved image for: sensors.
+[1548757580.05] Received request from: calendar Current lecture: Präsi.
+[1548757580.05] Recording already started: calendar.
+[1548757587.97] Received request from: sensors Task: Capture image
+[1548757587.97] No Saved image for: sensors.
+[1548757597.99] Received request from: sensors Task: Capture image
+[1548757597.99] No Saved image for: sensors.
+[1548757608.07] Received request from: sensors Task: Capture image
+[1548757608.07] No Saved image for: sensors.
+[1548757618.1] Received request from: sensors Task: Capture image
+[1548757618.1] No Saved image for: sensors.
+[1548757619.92] Received request from: faceDetection Task: Capture image
+[1548757619.92] Saved image for: faceDetection.
+[1548757628.12] Received request from: sensors Task: Capture image
+[1548757628.12] No Saved image for: sensors.
+[1548757638.14] Received request from: sensors Task: Capture image
+[1548757638.14] No Saved image for: sensors.
+[1548757640.31] Received request from: calendar Current lecture: Präsi.
+[1548757640.31] Recording already started: calendar.
+[1548757640.63] Received request from: faceDetection Task: Capture image
+[1548757640.63] Saved image for: faceDetection.
+[1548757648.15] Received request from: sensors Task: Capture image
+[1548757648.15] No Saved image for: sensors.
+[1548757658.18] Received request from: sensors Task: Capture image
+[1548757658.18] No Saved image for: sensors.
+[1548757659.92] Received request from: faceDetection Task: Capture image
+[1548757659.92] Saved image for: faceDetection.
+[1548757678.17] Received request from: sensors Task: Capture image
+[1548757678.17] No Saved image for: sensors.
+[1548757688.18] Received request from: sensors Task: Capture image
+[1548757688.18] No Saved image for: sensors.
+[1548757698.2] Received request from: sensors Task: Capture image
+[1548757698.2] No Saved image for: sensors.
+[1548757700.56] Received request from: calendar Current lecture: Präsi.
+[1548757700.56] Recording already started: calendar.
+[1548757708.21] Received request from: sensors Task: Capture image
+[1548757708.21] No Saved image for: sensors.
+[1548757718.23] Received request from: sensors Task: Capture image
+[1548757718.23] No Saved image for: sensors.
+[1548757728.24] Received request from: sensors Task: Capture image
+[1548757728.24] No Saved image for: sensors.
+[1548757738.25] Received request from: sensors Task: Capture image
+[1548757738.25] No Saved image for: sensors.
+[1548757748.26] Received request from: sensors Task: Capture image
+[1548757748.26] No Saved image for: sensors.
+[1548757760.82] Received request from: calendar Current lecture: Präsi.
+[1548757760.82] Recording already started: calendar.
+[1548757821.07] Received request from: calendar Current lecture: Präsi.
+[1548757821.07] Recording already started: calendar.
+[1548757829.68] Received request from: sensors Task: Capture image
+[1548757829.68] No Saved image for: sensors.
+[1548757881.32] Received request from: calendar Current lecture: Präsi.
+[1548757881.32] Recording already started: calendar.
+[1548757921.85] Received request from: sensors Task: Capture image
+[1548757921.85] No Saved image for: sensors.
+[1548757931.86] Received request from: sensors Task: Capture image
+[1548757931.86] No Saved image for: sensors.
+[1548757941.63] Received request from: calendar Current lecture: Präsi.
+[1548757941.63] Recording already started: calendar.
+[1548758001.96] Received request from: calendar Current lecture: Präsi.
+[1548758001.96] Recording already started: calendar.
+[1548758045.73] Received request from: sensors Task: Capture image
+[1548758045.73] No Saved image for: sensors.
+[1548758062.24] Received request from: calendar Current lecture: Präsi.
+[1548758062.24] Recording already started: calendar.
+[1548758122.46] Received request from: calendar Current lecture: Präsi.
+[1548758122.46] Recording already started: calendar.
+[1548758128.49] Received request from: sensors Task: Capture image
+[1548758128.49] No Saved image for: sensors.
+[1548758137.22] Received request from: faceDetection Task: Capture image
+[1548758137.22] Saved image for: faceDetection.
+[1548758142.82] Received request from: sensors Task: Capture image
+[1548758142.82] No Saved image for: sensors.
+[1548758152.84] Received request from: sensors Task: Capture image
+[1548758152.84] No Saved image for: sensors.
+[1548758162.86] Received request from: sensors Task: Capture image
+[1548758162.86] No Saved image for: sensors.
+[1548758172.89] Received request from: sensors Task: Capture image
+[1548758172.89] No Saved image for: sensors.
+[1548758182.84] Received request from: calendar Current lecture: Präsi.
+[1548758182.84] Recording already started: calendar.
+[1548758182.91] Received request from: sensors Task: Capture image
+[1548758182.91] No Saved image for: sensors.
+[1548758192.93] Received request from: sensors Task: Capture image
+[1548758192.93] No Saved image for: sensors.
+[1548758202.94] Received request from: sensors Task: Capture image
+[1548758202.94] No Saved image for: sensors.
+[1548758212.95] Received request from: sensors Task: Capture image
+[1548758212.95] No Saved image for: sensors.
+[1548758222.96] Received request from: sensors Task: Capture image
+[1548758222.96] No Saved image for: sensors.
+[1548758243.08] Received request from: calendar Current lecture: Präsi.
+[1548758243.08] Recording already started: calendar.
+[1548758303.32] Received request from: calendar Current lecture: Präsi.
+[1548758303.32] Recording already started: calendar.
+[1548758312.28] Received request from: sensors Task: Capture image
+[1548758312.28] No Saved image for: sensors.
+[1548758363.59] Received request from: calendar Current lecture: Präsi.
+[1548758363.59] Recording already started: calendar.
+[1548758370.29] Received request from: sensors Task: Capture image
+[1548758370.29] No Saved image for: sensors.
+[1548758380.3] Received request from: sensors Task: Capture image
+[1548758380.3] No Saved image for: sensors.
+[1548758423.85] Received request from: calendar Current lecture: Präsi.
+[1548758423.85] Recording already started: calendar.
+[1548758484.09] Received request from: calendar Current lecture: Präsi.
+[1548758484.09] Recording already started: calendar.
+[1548758494.34] Received request from: sensors Task: Capture image
+[1548758494.34] No Saved image for: sensors.
+[1548758544.46] Received request from: calendar Current lecture: Präsi.
+[1548758544.46] Recording already started: calendar.
+[1548758573.9] Received request from: sensors Task: Capture image
+[1548758573.9] No Saved image for: sensors.
+[1548758583.92] Received request from: sensors Task: Capture image
+[1548758583.92] No Saved image for: sensors.
+[1548758593.93] Received request from: sensors Task: Capture image
+[1548758593.93] No Saved image for: sensors.
+[1548758603.94] Received request from: sensors Task: Capture image
+[1548758603.94] No Saved image for: sensors.
+[1548758604.71] Received request from: calendar Current lecture: Präsi.
+[1548758604.71] Recording already started: calendar.
+[1548758613.96] Received request from: sensors Task: Capture image
+[1548758613.96] No Saved image for: sensors.
+[1548758623.99] Received request from: sensors Task: Capture image
+[1548758623.99] No Saved image for: sensors.
+[1548758644.55] Received request from: sensors Task: Capture image
+[1548758644.55] No Saved image for: sensors.
+[1548758654.57] Received request from: sensors Task: Capture image
+[1548758654.57] No Saved image for: sensors.
+[1548758664.93] Received request from: calendar Current lecture: Präsi.
+[1548758664.93] Recording already started: calendar.
+[1548758713.72] Received request from: sensors Task: Capture image
+[1548758713.72] No Saved image for: sensors.
+[1548758720.14] Received request from: faceDetection Task: Capture image
+[1548758720.14] Saved ima
