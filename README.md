@@ -23,7 +23,7 @@ Das Ziel des Projekts ist die smarte Generierung von Content für Social-Media-P
 #### [IoT-Konzepte](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/06.-IoT-Konzepte)
 #### [Architektur](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/07.-Architektur)
 #### [Prototyp-Implementierung](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/08.-Prototyp-Implementierung)
-#### [Ausblick](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/10.-Ausblick)
-#### [Präsentation-und-Video](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/11.-Pr%C3%A4sentation-und-Video)
+#### [Ausblick](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/09.-Ausblick)
+#### [Präsentation-und-Video](https://github.com/Social-Reporter-HHZ/Social-Reporter/wiki/10.-Pr%C3%A4sentation-und-Video)
 
 
